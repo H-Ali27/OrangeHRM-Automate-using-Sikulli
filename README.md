@@ -1,4 +1,4 @@
-OrangeHRM web application Automated using Sikulli Tool
+# OrangeHRM web application Automated using Sikulli Tool
 This repository serves as a demonstration of the basic usage of Sikuli, a powerful automation testing tool that utilizes image recognition to interact with graphical user interfaces (GUIs).
 *Features:*
 1. Sikuli Automation: Explore the fundamental capabilities of Sikuli in automating interactions with GUI-based applications.
